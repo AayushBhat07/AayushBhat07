@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Aayush Bhat**, AI & full-stack developer in Mumbai. Portfolio: [aayushbhat.vercel.app](https://aayushbhat.vercel.app)<br><br>
+**Aayush Bhat**, AI & full-stack developer in Mumbai. Portfolio: [Aayush Bhat's Receipts](https://aayush-receipts.vercel.app), where every claim links to the code that proves it · 3D portfolio: [aayushbhat.vercel.app](https://aayushbhat.vercel.app)<br><br>
 👋 About Me<br><br>Hi, I’m Aayush — a passionate developer, lifelong learner, and builder who loves turning ideas into reality through code. I specialize in creating full-stack web and mobile applications, exploring AI/ML, and building efficient developer workflows.<br>	•	💻 Currently building: self-improvement platforms, event management systems, and automation tools<br>	•	⚡ Tools I love: Next.js, FlutterFlow, Convex, Tailwind CSS, TypeScript, VLY.ai, n8n, Python<br>	•	🤖 Exploring: AI + productivity, prompt engineering, and ethical automation<br>	•	🎯 My focus: Building real-world projects with clean UX, scalable backends, and meaningful impact<br>	•	🛠 Always learning, always shipping
 
 
